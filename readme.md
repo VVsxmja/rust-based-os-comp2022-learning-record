@@ -2,8 +2,8 @@
 
 ## 2022.10.23 ~ 2022.10.24
 
-- 读Rust By Examples第1章~第9章
-- 配置Rustlings repo
+- 读[Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)第1章~第9章
+- 配置[Rustlings](https://github.com/rust-lang/rustlings) repo
 
 ## 2022.10.25
 
