@@ -2,7 +2,7 @@
 
 ## 2022.10.23 ~ 2022.10.24
 
-- 读[Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)第1章~第9章
+- 读[Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)第1章~第9章
 - 配置[Rustlings repo](https://github.com/LearningOS/learn_rust_rustlings-VVsxmja)
 
 ## 2022.10.25
