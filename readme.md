@@ -8,3 +8,7 @@
 ## 2022.10.25
 
 - 完成Rustlings quiz1及之前的部分
+
+## 2022.10.26
+
+- 完成Rustlings到quiz2
