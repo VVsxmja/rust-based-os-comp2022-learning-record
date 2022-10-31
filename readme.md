@@ -12,3 +12,7 @@
 ## 2022.10.26
 
 - 完成Rustlings到quiz2
+
+## 2022.10.31
+
+- 完成Rustlings到option1
