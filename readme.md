@@ -23,8 +23,9 @@
 
 ## 2022.11.7
 
-完成Rustlings到threads
+- 完成Rustlings到threads
 
 ## 2022.11.11
 
-完成Rustlings全部内容
+- 完成Rustlings全部内容
+- 准备接着读Rust by Example
